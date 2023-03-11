@@ -1,1 +1,3 @@
 # Stable_Platform_Presentation
+
+An ambulance stretcher can be mounted on a stable platform for a unique apparatus which would be suitable for maximum comfort and safety for patients during emergency transport. Considering the ill condition of roads in even the biggest cities of the country any sudden movement should be kept to an absolute minimum in order to maintain hemodynamic stability, to reduce bleeding complications and to reduce the risk of spinal cord injury especially for critically ill or injured patients. Therefore, by countering induced disturbances and kinetic momentum of the rescue vessel all clinical risks associated with emergency patent transportation are easily mitigated by the usage of such stable platforms.
